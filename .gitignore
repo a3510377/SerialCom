@@ -1,2 +1,3 @@
-.vs
-SerialCom/obj/Debug
+.vs/
+SerialCom/bin/
+SerialCom/obj/
