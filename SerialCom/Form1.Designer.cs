@@ -85,7 +85,7 @@
             this.groupBox2.Controls.Add(this.textBoxReceive);
             this.groupBox2.Location = new System.Drawing.Point(38, 87);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(274, 255);
+            this.groupBox2.Size = new System.Drawing.Size(414, 305);
             this.groupBox2.TabIndex = 15;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "接收";
@@ -108,7 +108,7 @@
             this.textBoxReceive.Location = new System.Drawing.Point(16, 26);
             this.textBoxReceive.Multiline = true;
             this.textBoxReceive.Name = "textBoxReceive";
-            this.textBoxReceive.Size = new System.Drawing.Size(245, 179);
+            this.textBoxReceive.Size = new System.Drawing.Size(230, 164);
             this.textBoxReceive.TabIndex = 5;
             // 
             // groupBox1
